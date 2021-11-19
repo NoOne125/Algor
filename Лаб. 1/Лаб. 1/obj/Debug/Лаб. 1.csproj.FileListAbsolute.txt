@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Лаб. 1\Лаб. 1\bin\Debug\Лаб. 1.exe.config
+C:\Users\User\Desktop\Лаб. 1\Лаб. 1\bin\Debug\Лаб. 1.exe
+C:\Users\User\Desktop\Лаб. 1\Лаб. 1\bin\Debug\Лаб. 1.pdb
+C:\Users\User\Desktop\Лаб. 1\Лаб. 1\obj\Debug\Лаб._1.Form1.resources
+C:\Users\User\Desktop\Лаб. 1\Лаб. 1\obj\Debug\Лаб._1.Properties.Resources.resources
+C:\Users\User\Desktop\Лаб. 1\Лаб. 1\obj\Debug\Лаб. 1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Лаб. 1\Лаб. 1\obj\Debug\Лаб. 1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Лаб. 1\Лаб. 1\obj\Debug\Лаб. 1.exe
+C:\Users\User\Desktop\Лаб. 1\Лаб. 1\obj\Debug\Лаб. 1.pdb
+C:\Users\User\Desktop\Лаб. 1\Лаб. 1\obj\Debug\Лаб. 1.csprojAssemblyReference.cache
