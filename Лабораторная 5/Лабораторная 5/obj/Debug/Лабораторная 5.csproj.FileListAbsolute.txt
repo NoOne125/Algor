@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Лабораторная 5\Лабораторная 5\bin\Debug\Лабораторная 5.exe.config
+C:\Users\User\Desktop\Лабораторная 5\Лабораторная 5\bin\Debug\Лабораторная 5.exe
+C:\Users\User\Desktop\Лабораторная 5\Лабораторная 5\bin\Debug\Лабораторная 5.pdb
+C:\Users\User\Desktop\Лабораторная 5\Лабораторная 5\obj\Debug\Лабораторная 5.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Лабораторная 5\Лабораторная 5\obj\Debug\Лабораторная_5.Form1.resources
+C:\Users\User\Desktop\Лабораторная 5\Лабораторная 5\obj\Debug\Лабораторная_5.Properties.Resources.resources
+C:\Users\User\Desktop\Лабораторная 5\Лабораторная 5\obj\Debug\Лабораторная 5.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Лабораторная 5\Лабораторная 5\obj\Debug\Лабораторная 5.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Лабораторная 5\Лабораторная 5\obj\Debug\Лабораторная 5.exe
+C:\Users\User\Desktop\Лабораторная 5\Лабораторная 5\obj\Debug\Лабораторная 5.pdb
