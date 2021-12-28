@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Game 6\Game 6\bin\Debug\Game 6.exe.config
+C:\Users\User\Desktop\Game 6\Game 6\bin\Debug\Game 6.exe
+C:\Users\User\Desktop\Game 6\Game 6\bin\Debug\Game 6.pdb
+C:\Users\User\Desktop\Game 6\Game 6\obj\Debug\Game 6.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Game 6\Game 6\obj\Debug\Game_6.Form1.resources
+C:\Users\User\Desktop\Game 6\Game 6\obj\Debug\Game_6.Properties.Resources.resources
+C:\Users\User\Desktop\Game 6\Game 6\obj\Debug\Game 6.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Game 6\Game 6\obj\Debug\Game 6.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Game 6\Game 6\obj\Debug\Game 6.exe
+C:\Users\User\Desktop\Game 6\Game 6\obj\Debug\Game 6.pdb
